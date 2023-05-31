@@ -1,0 +1,14 @@
+@mixin fontbold{
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+}
+
+@mixin fontlightbold{
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+}
+
+@mixin fontp{
+    font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+}
